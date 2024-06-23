@@ -1,0 +1,16 @@
+{
+  "REF011": {
+    "referencia": "REF011",
+    "casa": "A1",
+    "tipo": "Pedido",
+    "descripcion": "Pedido de amazon",
+    "recogido": true
+  },
+  "REF1": {
+    "referencia": "REF1",
+    "casa": "A1",
+    "tipo": "Domicilio",
+    "descripcion": "Domicilio",
+    "recogido": false
+  }
+}
